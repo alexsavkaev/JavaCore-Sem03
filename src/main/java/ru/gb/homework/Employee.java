@@ -1,7 +1,6 @@
 package ru.gb.homework;
 
 import java.time.LocalDate;
-import java.util.Random;
 import java.util.concurrent.ThreadLocalRandom;
 
 public abstract class Employee implements Comparable<Employee> {
